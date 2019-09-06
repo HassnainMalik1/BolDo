@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "780043067965",
+    "firebase_url": "https://boldo-9d4c8.firebaseio.com",
+    "project_id": "boldo-9d4c8",
+    "storage_bucket": "boldo-9d4c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780043067965:android:569500a6cacfc155864054",
+        "android_client_info": {
+          "package_name": "com.zmicrotech.boldo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780043067965-gsineq60vk8lsviomv776k6eg29ssp8p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zmicrotech.boldo",
+            "certificate_hash": "5947d4a78e5385bb1b894ee95a41359b2e3564c7"
+          }
+        },
+        {
+          "client_id": "780043067965-f85u4lle4fs0chcf8qf4b5hbicn27l3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6pH7eim37FprxrkYCWnSV3_779XBGh5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780043067965-f85u4lle4fs0chcf8qf4b5hbicn27l3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
